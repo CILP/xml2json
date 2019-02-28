@@ -1,7 +1,5 @@
-let json = {};
-
 function parse(xml) {
-  json = {};
+  const json = {};
 
   if (typeof xml !== 'string') {
     throw 'Xml must be a string';
