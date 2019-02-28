@@ -1,0 +1,17 @@
+{
+  "name": "xml2json",
+  "version": "1.0.0",
+  "description": "xml to json parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": "https://github.com/CILP/xml2json.git",
+  "author": "Carlos Linares <cilp2912@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
